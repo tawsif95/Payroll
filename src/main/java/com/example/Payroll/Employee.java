@@ -6,8 +6,6 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 
-import com.fasterxml.jackson.databind.annotation.JsonAppend.Prop;
-
 @Entity
 class Employee {
 
